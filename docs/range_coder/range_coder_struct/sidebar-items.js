@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["decoder","デコードする時に使う"],["encoder","エンコードする時に使う"]],"struct":[["RangeCoder","RangeCoder構造体"]]});

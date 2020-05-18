@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["range_coder"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/clone/trait.Clone.html\" title=\"trait core::clone::Clone\">Clone</a> for <a class=\"struct\" href=\"range_coder/alphabet_param/struct.AlphabetParam.html\" title=\"struct range_coder::alphabet_param::AlphabetParam\">AlphabetParam</a>","synthetic":false,"types":["range_coder::alphabet_param::AlphabetParam"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

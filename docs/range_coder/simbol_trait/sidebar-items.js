@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["ForRangeCoder","レンジコーダの元データに使用できることを示すトレイト"]]});

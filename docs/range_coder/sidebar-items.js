@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["alphabet_param","アルファベットの頻度や累積頻度を保持する構造体"],["decoder","デコーダ"],["encoder","エンコーダ"],["freq_table","頻度表"],["range_coder","レンジコーダ(基本ロジック)"]]});

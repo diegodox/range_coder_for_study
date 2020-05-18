@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["MAX_SIMBOL_COUNT",""]],"struct":[["SimbolParam","シンボルの出現回数を示す構造体"],["Simbols","シンボル関連のデータを管理する構造体"]]});
